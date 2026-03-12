@@ -9,7 +9,7 @@ valor_final = valor_produtos * quantidade_produtos
 if valor_final >= 4000.0:
     print('parabens voce teve um superavit')
 else:
-    print('poxa voce teve um defit')
+    print('poxa voce teve um deficit')
 
 
 
